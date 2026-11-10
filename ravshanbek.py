@@ -1,2 +1,2 @@
 print("Bu fayl Ravshanbek tomonidan yoziladi")
-print("Ishni boshladim")
+print("Ravshanbekning birinchi ish kuni")
